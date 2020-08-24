@@ -1,2 +1,2 @@
-class Dog
+class Dog < ActiveRecor::Base
 end
